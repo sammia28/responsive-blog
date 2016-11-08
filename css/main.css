@@ -61,30 +61,8 @@ h1{
 .subtema{
 	background-color: #1C1821;
 }
-/*section3*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.cuadro-img-txt{
+	display: inline-block;
+}
 /* Responsive */
 
-@media screen and (max-width : 920px) {
-
-}
-
-@media screen and (max-width: 600px) {
-
-}
